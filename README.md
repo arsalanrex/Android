@@ -17,15 +17,12 @@ Apk file of the app: [branch-name].apk
 
 <hr>
 
-Here is a link of all the branches I have made and will be making in the future with images of the output:<br>
+Here is a link of all the branches I have made and will be making in the future:<br>
 
 # 1. TextView
 
 Link:
 ![TextView](https://github.com/arsalanrex/Android/tree/TextView)
-
-Screenshot of the app:
-![TextView.png](https://github.com/arsalanrex/Android/blob/TextView/Results/TextView.png)
 
 <hr>
 
@@ -33,8 +30,5 @@ Screenshot of the app:
 
 Link:
 ![EditText](https://github.com/arsalanrex/Android/tree/EditText)
-
-Screenshot of the app:
-![EditText.png](https://github.com/arsalanrex/Android/blob/EditText/Results/EditText.png)
 
 <hr>
