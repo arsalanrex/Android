@@ -19,16 +19,11 @@ Apk file of the app: [branch-name].apk
 
 Here is a link of all the branches I have made and will be making in the future:<br>
 
-# 1. TextView
-
-Link:
+1. TextView: 
 ![TextView](https://github.com/arsalanrex/Android/tree/TextView)
 
-<hr>
 
-# 2. EditText
-
-Link:
+2. EditText:
 ![EditText](https://github.com/arsalanrex/Android/tree/EditText)
 
 <hr>
